@@ -1,7 +1,7 @@
 # Q_kp_multiband_ZB
 Computes the electronic band structure of bulk ZB semiconductor with various k.p models.
 
-A database of the most common semiconductor II-V and II-VI is provided and can be adjusted.
+A database of the most common semiconductor III-V and II-VI is provided and can be adjusted.
 
 Various models are available:
 
